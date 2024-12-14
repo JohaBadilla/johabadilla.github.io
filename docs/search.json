@@ -7,11 +7,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "joha",
+    "objectID": "posts/Articulo_Joha/index2.html",
+    "href": "posts/Articulo_Joha/index2.html",
+    "title": "Informe del ejercicio semanal 2 jhoa",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 14, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 11, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Informe del ejercicio\nEste artículo describe los pasos seguidos para desplegar un sitio Quarto en GitHub Pages. Creado por Johanna Umana Badilla"
   },
   {
     "objectID": "about.html",
@@ -21,9 +21,16 @@
     "text": "About this blog"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "joha",
+    "section": "",
+    "text": "Informe del ejercicio semanal 2 jhoa\n\n\n\n\n\n\nGitHub\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nDec 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nArticulO Joha\n\n\n\n\n\n\nArtic\n\n\n\n\n\n\n\n\n\nDec 14, 2024\n\n\nJohanna\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 11, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "ArticulO Joha",
     "section": "",
     "text": "This is a post with executable code."
   }
