@@ -1,5 +1,5 @@
 ---
-title: "joha"
+title: "Johanna UB"
 listing:
   contents: posts
   sort: "date desc"
