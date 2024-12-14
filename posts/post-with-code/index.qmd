@@ -1,8 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "ArticulO Joha"
+author: "Johanna"
 date: "2024-12-14"
-categories: [news, code, analysis]
+categories: [Artic]
 image: "image.jpg"
 ---
 

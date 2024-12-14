@@ -1,0 +1,10 @@
+---
+title: "Informe del ejercicio semanal 2 jhoa"
+date: "2024-12-14"
+categories: [GitHub, Quarto]
+---
+
+# Informe del ejercicio
+
+Este artículo describe los pasos seguidos para desplegar un sitio Quarto en GitHub Pages.
+Creado por Johanna Umana Badilla
